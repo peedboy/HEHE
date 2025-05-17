@@ -1,0 +1,9 @@
+body {
+  background: linear-gradient(to right, #f2f2f2, #e0f7fa);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "Noto Sans KR", sans-serif;
+}
